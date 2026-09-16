@@ -1,0 +1,2 @@
+# assets-nguaxf
+static assets
